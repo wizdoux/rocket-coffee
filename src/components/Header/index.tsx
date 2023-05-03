@@ -24,9 +24,7 @@ export function Header() {
           <Link to="/Lojas">Lojas</Link>
         </li>
       </ul>
-      <a href="/src/assets/pegar-meu-cafe.gif">
-        <button type="button" className="md:flex hidden border border-primary py-[11px] px-[38px] font-extrabold rounded-md text-[11px] ">PEGAR MEU CAFÉ</button>
-      </a>
+      <button type="button" className="md:flex hidden border border-primary py-[11px] px-[38px] font-extrabold rounded-md text-[11px] ">PEGAR MEU CAFÉ</button>
       <Menu />
     </header>
   )
