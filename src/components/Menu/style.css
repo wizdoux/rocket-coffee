@@ -1,0 +1,6 @@
+.menu li{    
+    @apply h-14 border-y border-border  ;
+}
+.menu li a{
+    @apply pl-[30px] h-full w-full flex items-center justify-start;
+} 

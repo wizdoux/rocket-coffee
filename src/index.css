@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'Manrope', sans-serif
+  }
+
+  .sub-Title {
+    text-shadow: -1px -1px 0 theme('colors.button'), 1px -1px 0 theme('colors.button'), -1px 1px 0 theme('colors.button'), 1px 1px 0 theme('colors.button');
+    color: black;
+  }
+}
+
+body {
+  @apply bg-black text-sm font-normal text-white;
+  background: #08050e;
+}
