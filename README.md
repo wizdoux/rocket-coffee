@@ -1,6 +1,5 @@
 # Rocket Coffee
 
-Rocket Coffee é um projeto de uma cafeteria fictícia criado para demonstrar e praticar técnicas modernas de desenvolvimento web usando React e Vite. 
 Este projeto visa fornecer uma interface amigável e contínua, exibindo várias funcionalidades como catálogo de produtos, carrinho de compras e processamento de pedidos. 
 O projeto foi desenvolvido como um método de estudo.
 
